@@ -103,6 +103,23 @@ More Examples:
 - `test`: (adding missing tests, refactoring tests; no production code change)
 - `chore`: (updating grunt tasks etc; no production code change)
 
+## github下fork后如何同步源的新更新内容
+
+```bash
+git remote -v
+
+git remote add upstream  https://github.com/bfenetworks/bfe
+
+## 同步 fork
+git fetch upstream
+
+## 切换到 upstream 分支
+git checkout upstream/develop
+
+## 将 upstream 分支 push 到 fork 项目对应分支
+git push origin upstream/develop:develop -f
+```
+
 References:
 
 - https://www.conventionalcommits.org/
