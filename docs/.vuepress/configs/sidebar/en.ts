@@ -37,6 +37,7 @@ export const sidebarEn: SidebarConfig = {
     },
     {
       text: 'service',
+      collapsible: true,
       children: [
         '/linux/service/systemd.md',
         '/linux/service/dhcp.md',
@@ -46,6 +47,7 @@ export const sidebarEn: SidebarConfig = {
     },
     {
       text: 'Network',
+      collapsible: true,
       children: [
         '/linux/network.md',
       ],
