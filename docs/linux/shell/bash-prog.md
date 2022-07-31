@@ -11,6 +11,15 @@
 [Google Shell Code Style](https://google.github.io/styleguide/shell.xml)
 
 
+```bash
+#/bin/bash
+declare -a conns=(50 100 200 500 1000 1500)
+
+for conn in ${conns[@]}; do 
+    echo $conn
+done
+```
+
 ## 一些 Debug 技巧
 
 ```

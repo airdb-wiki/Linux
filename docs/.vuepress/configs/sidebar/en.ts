@@ -24,6 +24,7 @@ export const sidebarEn: SidebarConfig = {
     {
       text: 'shell',
       children: [
+        '/linux/shell/awk-sed.md',
         '/linux/shell/git.md',
         '/linux/shell/bash.md',
         '/linux/shell/bash-prog.md',
