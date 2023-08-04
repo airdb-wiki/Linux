@@ -2,7 +2,7 @@ dev:
 	 pnpm docs:dev
 
 build:
-	 pnpm i
+	 pnpm install --frozen-lockfile
 	 pnpm docs:build
 
 install:
