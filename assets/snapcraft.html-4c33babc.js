@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-95e65612","path":"/linux/snapcraft.html","title":"Ubuntu Snapcraft","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1658957048000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"linux/snapcraft.md"}');export{a as data};

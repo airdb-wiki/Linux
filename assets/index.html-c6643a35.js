@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7449d339","path":"/mac/","title":"ShortCuts","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1657481663000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":2}]},"filePathRelative":"mac/README.md"}');export{t as data};

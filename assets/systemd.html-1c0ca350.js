@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2e80caf2","path":"/linux/service/systemd.html","title":"systemctl","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1657090196000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"linux/service/systemd.md"}');export{e as data};

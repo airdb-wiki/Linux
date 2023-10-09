@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-22c05c1e","path":"/linux/shell/nc.html","title":"nc","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1696816259000,"contributors":[{"name":"bumu","email":"bumu@airdb.io","commits":2}]},"filePathRelative":"linux/shell/nc.md"}');export{e as data};

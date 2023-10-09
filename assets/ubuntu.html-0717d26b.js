@@ -1,0 +1,1 @@
+import{_ as t,p as n,q as a,R as e,t as u}from"./framework-d81ad7e5.js";const c={},r=e("h1",{id:"ubuntu-初始化",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#ubuntu-初始化","aria-hidden":"true"},"#"),u(" Ubuntu 初始化")],-1),s=[r];function o(_,d){return n(),a("div",null,s)}const h=t(c,[["render",o],["__file","ubuntu.html.vue"]]);export{h as default};

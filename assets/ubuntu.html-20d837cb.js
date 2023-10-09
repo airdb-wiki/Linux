@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-10c91470","path":"/osinit/ubuntu.html","title":"Ubuntu 初始化","lang":"en-US","frontmatter":{"weight":20},"headers":[],"git":{"updatedTime":1658955520000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"osinit/ubuntu.md"}');export{t as data};

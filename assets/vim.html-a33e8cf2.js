@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6bd84e1c","path":"/linux/shell/vim.html","title":"VIM","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"配置文件内容","slug":"配置文件内容","link":"#配置文件内容","children":[]}],"git":{"updatedTime":1656608600000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"linux/shell/vim.md"}');export{e as data};

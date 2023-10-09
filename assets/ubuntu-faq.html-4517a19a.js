@@ -1,0 +1,5 @@
+import{_ as a,p as e,q as s,a1 as n}from"./framework-d81ad7e5.js";const i={},t=n(`<h1 id="ubuntu-faq" tabindex="-1"><a class="header-anchor" href="#ubuntu-faq" aria-hidden="true">#</a> Ubuntu FAQ</h1><h2 id="更新证书链问题" tabindex="-1"><a class="header-anchor" href="#更新证书链问题" aria-hidden="true">#</a> 更新证书链问题</h2><div class="language-bash line-numbers-mode" data-ext="sh"><pre class="shiki" style="background-color:#1E1E1E;"><code><span class="line"><span style="color:#D4D4D4;"> apt list --installed | grep ca-certificates</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#D4D4D4;"> apt-get update</span></span>
+<span class="line"><span style="color:#D4D4D4;"> DEBIAN_FRONTEND=noninteractive apt-get install -y --reinstall ca-certificates</span></span>
+<span class="line"></span></code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,3),l=[t];function c(r,d){return e(),s("div",null,l)}const o=a(i,[["render",c],["__file","ubuntu-faq.html.vue"]]);export{o as default};
